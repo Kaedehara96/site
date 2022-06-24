@@ -1,0 +1,13 @@
+body{
+    background-color:powderblue;
+}
+p {
+    font-family:'Times New Roman', Times, serif;
+    color:crimson;
+    font-size: medium;
+}
+pre {
+    font-family: 'Times New Roman';
+    color: crimson;
+    font-size: medium;
+}
